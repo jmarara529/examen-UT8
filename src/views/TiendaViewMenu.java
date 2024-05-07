@@ -17,7 +17,7 @@ public class TiendaViewMenu extends JFrame {
     JButton addButton;
     JButton updateButton;
 
-    JButton deleteButton
+    JButton deleteButton;
 
     JButton clearButton;
 
