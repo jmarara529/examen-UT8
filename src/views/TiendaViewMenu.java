@@ -1,5 +1,7 @@
 package views;
 
+import model.services.ProductService;
+
 import javax.swing.*;
 
 public class TiendaViewMenu extends JFrame {
@@ -21,6 +23,6 @@ public class TiendaViewMenu extends JFrame {
 
     JButton clearButton;
 
-
+    private ProductService service;
 
 }
